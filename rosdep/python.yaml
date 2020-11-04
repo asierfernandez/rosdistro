@@ -108,6 +108,10 @@ cmakelint-pip:
   ubuntu:
     pip:
       packages: [cmakelint]
+conan-pip:
+  ubuntu:
+    pip:
+      packages: [conan]
 cppcheck-junit-pip:
   debian:
     pip:
